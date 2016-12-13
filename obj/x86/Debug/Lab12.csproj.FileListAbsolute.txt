@@ -1,0 +1,17 @@
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\bin\Debug\Lab12.exe
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\bin\Debug\Timer_TCPServer.dll
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.HotkeyForm.resources
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.Lab12.resources
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.OffForm.resources
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.Properties.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.exe
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.pdb
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\bin\Debug\Lab12.pdb
+C:\Users\Samsung\Documents\Visual Studio 2010\Projects\Lab12\obj\x86\Debug\Lab12.ReserveForm.resources
+C:\Users\Samsung\Source\Repos\PowerManagement\bin\Debug\Lab12.exe.config
+C:\Users\Samsung\Source\Repos\PowerManagement\obj\x86\Debug\Lab12.exe
+C:\Users\Samsung\Source\Repos\PowerManagement\obj\x86\Debug\Lab12.pdb
